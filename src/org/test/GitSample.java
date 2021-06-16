@@ -8,6 +8,8 @@ public class GitSample {
 		System.out.println(7);
 		System.err.println(10);
 		
+		System.out.println("Hello");
+		
 	}
 
 }
